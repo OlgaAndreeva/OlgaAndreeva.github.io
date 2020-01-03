@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head><title>Резюме / CV</title></head>
   <body>
