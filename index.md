@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>
 <html> <head>
   <title> Andreeva Olga </title>
   </head>
