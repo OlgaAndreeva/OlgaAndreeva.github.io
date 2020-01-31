@@ -1,6 +1,8 @@
+<!DOCTYPE HTML>
 <html>
   <head>
-    <title> Резюме / CV</title></head>
+    <title> Резюме </title>
+  </head>
   <body>
     <h1>Ольга Андреева</h1>
     <h3>к.т.н.</h3>
