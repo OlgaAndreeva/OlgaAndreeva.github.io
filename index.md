@@ -1,6 +1,5 @@
 <!DOCTYPE HTML>
 <html> <head>
-  <title>  </title>
   </head>
   <body>
     <h1>Ольга Андреева</h1>
