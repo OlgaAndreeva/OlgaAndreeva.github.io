@@ -12,8 +12,7 @@
 	<h4>к.т.н.</h4>
 	<h4>г. Нижний Новгород</h4> </td>
 	</tr>
-	
-	</table>
+</table>
 	<hr>
 				<p>SPIN-код РИНЦ: <a href="http://elibrary.ru/author_items.asp?authorid=738735" target="_blank">738735</a><br/>
 				Web of Science: E-8050-2018 <a href="https://mapofscience.ru/scientist/" target="_blank"></a><br />
