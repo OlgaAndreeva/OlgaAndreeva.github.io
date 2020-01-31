@@ -1,8 +1,6 @@
 <!DOCTYPE HTML>
 <html>
-  <head>
-    <title> Резюме </title>
-  </head>
+  <title> Test </title>
   <body>
     <h1>Ольга Андреева</h1>
     <h3>к.т.н.</h3>
